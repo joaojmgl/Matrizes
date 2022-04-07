@@ -1,0 +1,1 @@
+Uma das ações que precisamos praticar para saber avaliar algoritmos é contar corretamente as "linhas" de execução e o quão essas linhas impactam no custo computacional. Neste vídeo há um pequeno exemplo de como computar tais linhas e como elaborar a equação de custo a partir dessa contagem.
